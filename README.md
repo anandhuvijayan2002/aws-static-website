@@ -1,4 +1,4 @@
-##Static Website Deployment on AWS S3
+Static Website Deployment on AWS S3
 
 A simple and beginner-friendly static website hosted on Amazon S3 (Free Tier).
 This project demonstrates cloud hosting, static website deployment, and version control using GitHub.
@@ -54,4 +54,4 @@ Copy the S3 website endpoint link
 
 
 Anandhu Vijayan
-Cloud Enthusiast  AWS Learner
+Cloud Enthusiast | AWS Learner
